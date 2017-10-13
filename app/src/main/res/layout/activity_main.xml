@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.chandrassekhar.rainbow.MainActivity">
+
+
+
+     <TextView
+         android:layout_width="match_parent"
+         android:layout_height="73dp"
+         android:background="#EE82EE"
+         android:text="@string/txt1"
+         android:textSize="40dp"
+         android:layout_weight="1"
+         android:textAlignment="center"
+         />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:background="#4B0082"
+        android:text="@string/txt2"
+        android:textSize="40dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:background="#0000FF"
+        android:text="@string/txt3"
+        android:textSize="40dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:background="#008000"
+        android:text="@string/txt4"
+        android:textSize="40dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:background="#FFFF00"
+        android:text="@string/txt5"
+        android:textSize="40dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:background="#FFA500"
+        android:text="@string/txt6"
+        android:textSize="40dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="73dp"
+        android:background="#FF0000"
+        android:text="@string/txt7"
+        android:textSize="40dp"
+        android:layout_weight="1"
+        android:textAlignment="center"
+        />
+
+</LinearLayout>
